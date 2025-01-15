@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="747f0ff4-0035-4fe0-bd5a-a4f31533c0bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ChatBotProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatBot/chatbot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpeechToTextRecognition/SpeechEmotionalRecognizer/emotionrecognizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpeechToTextRecognition/speechtotext.py" afterDir="false" />
-    </list>
+    <list default="true" id="747f0ff4-0035-4fe0-bd5a-a4f31533c0bc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,7 +214,7 @@
       <workItem from="1724122455389" duration="3045000" />
       <workItem from="1724277269742" duration="412000" />
       <workItem from="1736904611994" duration="2828000" />
-      <workItem from="1736966790804" duration="1758000" />
+      <workItem from="1736966790804" duration="2191000" />
     </task>
     <servers />
   </component>
